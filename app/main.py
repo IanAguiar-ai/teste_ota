@@ -18,7 +18,7 @@ def boot():
     start()
 
 print("Ligando")
-sleep(1)
+sleep(2)
 boot()
 print("Feito")
         
