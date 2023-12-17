@@ -10,8 +10,8 @@ def main_principal():
     n = 0
     while n < 10:
         n += 1
-        sleep(1)
+        sleep(0.5)
         led.on()
-        sleep(1)
+        sleep(0.5)
         led.off()
         
