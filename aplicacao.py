@@ -1,5 +1,6 @@
 #Código teste OTA
 
+version = [0, 0, 1]
 def main_principal():
     from machine import Pin, UART
     from time import sleep
