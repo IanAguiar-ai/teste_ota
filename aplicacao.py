@@ -9,7 +9,7 @@ def main_principal():
     led.on()
 
     n = 0
-    while n < 10:
+    while n < 3:
         n += 1
         sleep(3)
         led.on()
